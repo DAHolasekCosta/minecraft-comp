@@ -1,0 +1,2 @@
+#Sat Aug 06 13:20:46 ART 2022
+MotionBlur=false

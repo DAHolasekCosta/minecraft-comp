@@ -1,0 +1,5 @@
+#Sun Nov 23 09:42:20 ART 2025
+customStars=false
+uFogDensity=160.0
+Fog=false
+wFogDensity=230.0

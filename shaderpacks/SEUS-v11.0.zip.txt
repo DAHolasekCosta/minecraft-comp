@@ -1,0 +1,4 @@
+#Sat Aug 06 13:54:01 ART 2022
+shadowDistance=80.0
+TEXTURE_RESOLUTION=64
+shadowMapResolution=1024
